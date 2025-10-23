@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats  
 <div align="center">
 
-![Olamide's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olamide&show_icons=true&theme=tokyonight)  
+![Olamide's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olaniyi-Olamide&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Olaniyi-Olamide&layout=compact&theme=tokyonight&cache_bust=1)
 
 </div>
