@@ -56,14 +56,18 @@ Here are some ideas to get you started:
 
 ---
 
+  
 ### ⏰ WakaTime Stats  
 <div align="center">
-  
+
+[![wakatime](https://wakatime.com/badge/user/018de792-5bba-4ac7-921b-7a4ef56594e9.svg)](https://wakatime.com/@018de792-5bba-4ac7-921b-7a4ef56594e9)  
+
 ![Olamide's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Notbadthoo&theme=tokyonight)
+
 
 </div>
 
-> 📝 *Make sure your WakaTime username matches in the link above. If it’s different, replace `Olamide` with your actual WakaTime username.*
+
 
 ---
 
