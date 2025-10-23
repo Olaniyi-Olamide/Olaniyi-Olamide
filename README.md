@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ---
 
 ### 🧠 About Me  
-- 🎓 I'm a **Computer Science student** passionate about frontend development.  
+- 🎓 I'm a **Computer Science student** passionate about building softwares.
 - 💡 Currently learning **React** and improving my **JavaScript** skills.  
 - 🚀 I love building clean, user-friendly, and responsive interfaces.  
 
@@ -67,20 +67,6 @@ Here are some ideas to get you started:
 
 </div>
 
-
-
----
-
-### 📌 Featured Projects  
-<div align="center">
-  
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Olamide&repo=project-1&theme=tokyonight)](https://github.com/Olamide/project-1)  
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Olamide&repo=project-2&theme=tokyonight)](https://github.com/Olamide/project-2)
-
-</div>
-
-> 💡 Replace `project-1` and `project-2` with the names of your actual repositories once you’re ready.
-
 ---
 
 ### 🌐 Connect With Me  
@@ -90,9 +76,4 @@ Here are some ideas to get you started:
   </a>
 </p>
 
----
 
-### 👁️ Visitor Counter  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Olamide&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
