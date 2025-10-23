@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 ![Olamide's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olamide&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Olamide&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Olaniyi-Olamide&layout=compact&theme=tokyonight&cache_bust=1)
 
 </div>
 
