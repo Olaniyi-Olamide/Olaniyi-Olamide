@@ -58,8 +58,8 @@ Here are some ideas to get you started:
 
 ### ⏰ WakaTime Stats  
 <div align="center">
-
-![Olamide's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Olamide&theme=tokyonight)
+  
+![Olamide's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Notbadthoo&theme=tokyonight)
 
 </div>
 
