@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### 🧠 About Me  
 - 🎓 I'm a **Computer Science student** passionate about building softwares.
-- 💡 Currently learning **React** and improving my **JavaScript** skills.  
+- 💡 Currently learning **React** and improving my **Typescript** skills.  
 - 🚀 I love building clean, user-friendly, and responsive interfaces.  
 
 ---
