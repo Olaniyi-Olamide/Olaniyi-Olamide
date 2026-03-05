@@ -75,8 +75,11 @@ Here are some ideas to get you started:
   <a href="https://x.com/notbadthoo?t=ZvhQx4V1Tl6jS0-TLEUXsw&s=09" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/olaniyi-olamide)
+</p>
+<p align="center">
+  <a href="https://linkedin.com/in/olaniyi-olamide">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 
